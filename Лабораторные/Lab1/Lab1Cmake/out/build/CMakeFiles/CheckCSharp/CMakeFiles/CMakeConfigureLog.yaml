@@ -1,0 +1,111 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineSystem.cmake:205 (message)"
+      - "CMakeLists.txt:3 (project)"
+    message: |
+      The system is: Windows - 10.0.19045 - AMD64
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeDetermineCSharpCompiler.cmake:23 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:3 (project)"
+    message: |
+      Compiling the CSharp compiler identification source file "CMakeCSharpCompilerId.cs" succeeded.
+      Compiler:  
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      \x82\xa5\xe0\xe1\xa8\xef MSBuild 17.9.8+b34f75857 \xa4\xab\xef .NET Framework
+      \x91\xa1\xaeઠ \xad\xa0\xe7\xa0\xe2\xa0 17.02.2025 1:39:07.
+      
+      \x8f஥\xaa\xe2 "C:\\Users\\\x82\xab\xa0\xa4\\Desktop\\\x91\xa8\xe1⥬\xad\xae\xa5 \xafணࠬ\xac\xa8஢\xa0\xad\xa8\xa5 - 3 \xaa\xe3\xe0\xe1 \x88\x91\xa8\x92\\\x8b\xa0\xa1\xae\xe0\xa0\xe2\xae\xe0\xad\xeb\xa5\\Lab1\\Lab1Cmake\\out\\build\\CMakeFiles\\CheckCSharp\\CMakeFiles\\3.31.5\\CompilerIdCSharp\\CompilerIdCSharp.csproj" \xa2 㧫\xa5 1 (楫\xa5\xa2\xeb\xa5 \xae\xa1ꥪ\xe2\xeb \xaf\xae 㬮\xab砭\xa8\xee).
+      PrepareForBuild:
+        \x91\xae\xa7\xa4\xa0\xad\xa8\xa5 \xaa\xa0⠫\xae\xa3\xa0 "obj\\x64\\Debug\\".
+      CoreCompile:
+        C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\csc.exe /noconfig /nowarn:1701,1702 /fullpaths /nostdlib+ /platform:anycpu32bitpreferred /define:Platformx64;PlatformToolsetClangCL /highentropyva+ /reference:"C:\\Program Files (x86)\\Reference Assemblies\\Microsoft\\Framework\\.NETFramework\\v4.7.2\\mscorlib.dll" /reference:"C:\\Program Files (x86)\\Reference Assemblies\\Microsoft\\Framework\\.NETFramework\\v4.7.2\\System.Core.dll" /debug+ /out:obj\\x64\\Debug\\CompilerIdCSharp.exe /subsystemversion:6.00 /target:exe /utf8output /langversion:7.3 CMakeCSharpCompilerId.cs "obj\\x64\\Debug\\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs"
+        CompilerServer: server - server processed compilation - 730415cd-27f9-4839-ba1c-fa86874b3af8
+      CopyFilesToOutputDirectory:
+        \x8a\xae\xaf\xa8஢\xa0\xad\xa8\xa5 䠩\xab\xa0 \xa8\xa7 "C:\\Users\\\x82\xab\xa0\xa4\\Desktop\\\x91\xa8\xe1⥬\xad\xae\xa5 \xafணࠬ\xac\xa8஢\xa0\xad\xa8\xa5 - 3 \xaa\xe3\xe0\xe1 \x88\x91\xa8\x92\\\x8b\xa0\xa1\xae\xe0\xa0\xe2\xae\xe0\xad\xeb\xa5\\Lab1\\Lab1Cmake\\out\\build\\CMakeFiles\\CheckCSharp\\CMakeFiles\\3.31.5\\CompilerIdCSharp\\obj\\x64\\Debug\\CompilerIdCSharp.exe" \xa2 "C:\\Users\\\x82\xab\xa0\xa4\\Desktop\\\x91\xa8\xe1⥬\xad\xae\xa5 \xafணࠬ\xac\xa8஢\xa0\xad\xa8\xa5 - 3 \xaa\xe3\xe0\xe1 \x88\x91\xa8\x92\\\x8b\xa0\xa1\xae\xe0\xa0\xe2\xae\xe0\xad\xeb\xa5\\Lab1\\Lab1Cmake\\out\\build\\CMakeFiles\\CheckCSharp\\CMakeFiles\\3.31.5\\CompilerIdCSharp\\CompilerIdCSharp.exe".
+        CompilerIdCSharp -> C:\\Users\\\x82\xab\xa0\xa4\\Desktop\\\x91\xa8\xe1⥬\xad\xae\xa5 \xafணࠬ\xac\xa8஢\xa0\xad\xa8\xa5 - 3 \xaa\xe3\xe0\xe1 \x88\x91\xa8\x92\\\x8b\xa0\xa1\xae\xe0\xa0\xe2\xae\xe0\xad\xeb\xa5\\Lab1\\Lab1Cmake\\out\\build\\CMakeFiles\\CheckCSharp\\CMakeFiles\\3.31.5\\CompilerIdCSharp\\CompilerIdCSharp.exe
+        \x8a\xae\xaf\xa8஢\xa0\xad\xa8\xa5 䠩\xab\xa0 \xa8\xa7 "C:\\Users\\\x82\xab\xa0\xa4\\Desktop\\\x91\xa8\xe1⥬\xad\xae\xa5 \xafணࠬ\xac\xa8஢\xa0\xad\xa8\xa5 - 3 \xaa\xe3\xe0\xe1 \x88\x91\xa8\x92\\\x8b\xa0\xa1\xae\xe0\xa0\xe2\xae\xe0\xad\xeb\xa5\\Lab1\\Lab1Cmake\\out\\build\\CMakeFiles\\CheckCSharp\\CMakeFiles\\3.31.5\\CompilerIdCSharp\\obj\\x64\\Debug\\CompilerIdCSharp.pdb" \xa2 "C:\\Users\\\x82\xab\xa0\xa4\\Desktop\\\x91\xa8\xe1⥬\xad\xae\xa5 \xafணࠬ\xac\xa8஢\xa0\xad\xa8\xa5 - 3 \xaa\xe3\xe0\xe1 \x88\x91\xa8\x92\\\x8b\xa0\xa1\xae\xe0\xa0\xe2\xae\xe0\xad\xeb\xa5\\Lab1\\Lab1Cmake\\out\\build\\CMakeFiles\\CheckCSharp\\CMakeFiles\\3.31.5\\CompilerIdCSharp\\CompilerIdCSharp.pdb".
+      PostBuildEvent:
+        if not "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn"=="" if exist "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\csc.exe" set _CSC=C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn
+        if exist "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\csc.exe" set _CSC=C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64
+        if "%_CSC%"=="" exit -1
+        @echo CMAKE_CSharp_COMPILER=%_CSC%\\csc.exe
+        CMAKE_CSharp_COMPILER=C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\csc.exe
+      \x91\xa1\xaeઠ \xaf஥\xaa\xe2\xa0 "C:\\Users\\\x82\xab\xa0\xa4\\Desktop\\\x91\xa8\xe1⥬\xad\xae\xa5 \xafணࠬ\xac\xa8஢\xa0\xad\xa8\xa5 - 3 \xaa\xe3\xe0\xe1 \x88\x91\xa8\x92\\\x8b\xa0\xa1\xae\xe0\xa0\xe2\xae\xe0\xad\xeb\xa5\\Lab1\\Lab1Cmake\\out\\build\\CMakeFiles\\CheckCSharp\\CMakeFiles\\3.31.5\\CompilerIdCSharp\\CompilerIdCSharp.csproj" \xa7\xa0\xa2\xa5\xe0襭\xa0 (楫\xa5\xa2\xeb\xa5 \xae\xa1ꥪ\xe2\xeb \xaf\xae 㬮\xab砭\xa8\xee).
+      
+      \x91\xa1\xaeઠ \xe3ᯥ譮 \xa7\xa0\xa2\xa5\xe0襭\xa0.
+          \x8f।\xe3\xaf०\xa4\xa5\xad\xa8\xa9: 0
+          \x8e訡\xae\xaa: 0
+      
+      \x8f\xe0\xae諮 \xa2६\xa5\xad\xa8 00:00:00.41
+      
+      
+      Compilation of the CSharp compiler identification source "CMakeCSharpCompilerId.cs" produced "CompilerIdCSharp.csproj"
+      
+      Compilation of the CSharp compiler identification source "CMakeCSharpCompilerId.cs" produced "CompilerIdCSharp.exe"
+      
+      Compilation of the CSharp compiler identification source "CMakeCSharpCompilerId.cs" produced "CompilerIdCSharp.pdb"
+      
+      The CSharp compiler identification could not be found in:
+        C:/Users/Влад/Desktop/Системное программирование - 3 курс ИСиТ/Лабораторные/Lab1/Lab1Cmake/out/build/CMakeFiles/CheckCSharp/CMakeFiles/3.31.5/CompilerIdCSharp/CompilerIdCSharp.csproj
+      
+      The CSharp compiler identification is Microsoft unknown, found in:
+        C:/Users/Влад/Desktop/Системное программирование - 3 курс ИСиТ/Лабораторные/Lab1/Lab1Cmake/out/build/CMakeFiles/CheckCSharp/CMakeFiles/3.31.5/CompilerIdCSharp/CompilerIdCSharp.exe
+      
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeTestCSharpCompiler.cmake:34 (try_compile)"
+      - "CMakeLists.txt:3 (project)"
+    checks:
+      - "Check for working C# compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/Roslyn/csc.exe"
+    directories:
+      source: "C:/Users/\u0412\u043b\u0430\u0434/Desktop/\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 - 3 \u043a\u0443\u0440\u0441 \u0418\u0421\u0438\u0422/\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u044b\u0435/Lab1/Lab1Cmake/out/build/CMakeFiles/CheckCSharp/CMakeFiles/CMakeScratch/TryCompile-jhwzzq"
+      binary: "C:/Users/\u0412\u043b\u0430\u0434/Desktop/\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 - 3 \u043a\u0443\u0440\u0441 \u0418\u0421\u0438\u0422/\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u044b\u0435/Lab1/Lab1Cmake/out/build/CMakeFiles/CheckCSharp/CMakeFiles/CMakeScratch/TryCompile-jhwzzq"
+    cmakeVariables:
+      CMAKE_CSharp_FLAGS: "/platform:x64 /define:TRACE"
+      CMAKE_CSharp_FLAGS_DEBUG: "/debug:full /optimize- /warn:3 /errorreport:prompt /define:DEBUG"
+      CMAKE_EXE_LINKER_FLAGS: ""
+      CMAKE_MODULE_PATH: ""
+    buildResult:
+      variable: "CMAKE_CSharp_COMPILER_WORKS"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Влад/Desktop/Системное программирование - 3 курс ИСиТ/Лабораторные/Lab1/Lab1Cmake/out/build/CMakeFiles/CheckCSharp/CMakeFiles/CMakeScratch/TryCompile-jhwzzq'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_5940a.csproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Версия MSBuild 17.9.8+b34f75857 для .NET Framework
+        Сборка начата 17.02.2025 1:39:08.
+        
+        Проект "C:\\Users\\Влад\\Desktop\\Системное программирование - 3 курс ИСиТ\\Лабораторные\\Lab1\\Lab1Cmake\\out\\build\\CMakeFiles\\CheckCSharp\\CMakeFiles\\CMakeScratch\\TryCompile-jhwzzq\\cmTC_5940a.csproj" в узле 1 (целевые объекты по умолчанию).
+        PrepareForBuild:
+          Создание каталога "C:\\Users\\Влад\\Desktop\\Системное программирование - 3 курс ИСиТ\\Лабораторные\\Lab1\\Lab1Cmake\\out\\build\\CMakeFiles\\CheckCSharp\\CMakeFiles\\CMakeScratch\\TryCompile-jhwzzq\\Debug\\".
+          Создание каталога "obj\\x64\\Debug\\".
+        CoreCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\csc.exe /noconfig /nowarn:1701,1702 /fullpaths /nostdlib+ /platform:x64 /errorreport:prompt /warn:3 /define:TRACE;DEBUG /highentropyva+ /reference:"C:\\Program Files (x86)\\Reference Assemblies\\Microsoft\\Framework\\.NETFramework\\v4.7.2\\mscorlib.dll" /reference:"C:\\Program Files (x86)\\Reference Assemblies\\Microsoft\\Framework\\.NETFramework\\v4.7.2\\System.Core.dll" /debug+ /debug:full /optimize- /out:obj\\x64\\Debug\\cmTC_5940a.exe /subsystemversion:6.00 /target:exe /utf8output /langversion:7.3 "C:\\Users\\Влад\\Desktop\\Системное программирование - 3 курс ИСиТ\\Лабораторные\\Lab1\\Lab1Cmake\\out\\build\\CMakeFiles\\CheckCSharp\\CMakeFiles\\CMakeScratch\\TryCompile-jhwzzq\\testCSharpCompiler.cs" "obj\\x64\\Debug\\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs"
+          CompilerServer: server - server processed compilation - f8120659-4bd5-4d48-8772-6da7a6d15fa2
+        CopyFilesToOutputDirectory:
+          Копирование файла из "C:\\Users\\Влад\\Desktop\\Системное программирование - 3 курс ИСиТ\\Лабораторные\\Lab1\\Lab1Cmake\\out\\build\\CMakeFiles\\CheckCSharp\\CMakeFiles\\CMakeScratch\\TryCompile-jhwzzq\\obj\\x64\\Debug\\cmTC_5940a.exe" в "C:\\Users\\Влад\\Desktop\\Системное программирование - 3 курс ИСиТ\\Лабораторные\\Lab1\\Lab1Cmake\\out\\build\\CMakeFiles\\CheckCSharp\\CMakeFiles\\CMakeScratch\\TryCompile-jhwzzq\\Debug\\cmTC_5940a.exe".
+          cmTC_5940a -> C:\\Users\\Влад\\Desktop\\Системное программирование - 3 курс ИСиТ\\Лабораторные\\Lab1\\Lab1Cmake\\out\\build\\CMakeFiles\\CheckCSharp\\CMakeFiles\\CMakeScratch\\TryCompile-jhwzzq\\Debug\\cmTC_5940a.exe
+          Копирование файла из "C:\\Users\\Влад\\Desktop\\Системное программирование - 3 курс ИСиТ\\Лабораторные\\Lab1\\Lab1Cmake\\out\\build\\CMakeFiles\\CheckCSharp\\CMakeFiles\\CMakeScratch\\TryCompile-jhwzzq\\obj\\x64\\Debug\\cmTC_5940a.pdb" в "C:\\Users\\Влад\\Desktop\\Системное программирование - 3 курс ИСиТ\\Лабораторные\\Lab1\\Lab1Cmake\\out\\build\\CMakeFiles\\CheckCSharp\\CMakeFiles\\CMakeScratch\\TryCompile-jhwzzq\\Debug\\cmTC_5940a.pdb".
+        Сборка проекта "C:\\Users\\Влад\\Desktop\\Системное программирование - 3 курс ИСиТ\\Лабораторные\\Lab1\\Lab1Cmake\\out\\build\\CMakeFiles\\CheckCSharp\\CMakeFiles\\CMakeScratch\\TryCompile-jhwzzq\\cmTC_5940a.csproj" завершена (целевые объекты по умолчанию).
+        
+        Сборка успешно завершена.
+            Предупреждений: 0
+            Ошибок: 0
+        
+        Прошло времени 00:00:00.33
+        
+      exitCode: 0
+...

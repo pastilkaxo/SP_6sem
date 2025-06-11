@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Влад\Desktop\Системное программирование - 3 курс ИСиТ\Лабораторные\Lab1\Lab1Cmake\out\build\CMakeFiles\CheckCSharp\CMakeFiles\3e7a3f0840a8eac22cc51944155a82a9\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E214EFCF-98D2-3619-A214-43E647E93AF0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

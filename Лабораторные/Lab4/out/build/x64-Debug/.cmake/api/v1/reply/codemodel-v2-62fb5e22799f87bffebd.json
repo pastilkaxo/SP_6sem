@@ -1,0 +1,195 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "ComSampleProxy",
+					"jsonFile" : "directory-ComSampleProxy-Debug-8f4d3405f86ddfb5a7ee.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "ComSampleProxy",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "ComSampleServer",
+					"jsonFile" : "directory-ComSampleServer-Debug-99d902b5601d1ef1f982.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "ComSampleServer",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "ComSampleService",
+					"jsonFile" : "directory-ComSampleService-Debug-6f83645074159f1cbe03.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "ComSampleService",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "ComSampleClient",
+					"jsonFile" : "directory-ComSampleClient-Debug-a9086a400c38e5e97ab7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 4,
+					"source" : "ComSampleClient",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "COM"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "ComSampleProxy",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "ComSampleServer",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "ComSampleService",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "ComSampleClient",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 4,
+					"id" : "Client::@1b5c706d2274dd6e9119",
+					"jsonFile" : "target-Client-Debug-8ed99f824cffe2023fd8.json",
+					"name" : "Client",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ComSampleProxy::@00762ec95405d8060222",
+					"jsonFile" : "target-ComSampleProxy-Debug-5a3a8992403a1daf194b.json",
+					"name" : "ComSampleProxy",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "ComSampleServer::@ef2d3e79c366fd8440a6",
+					"jsonFile" : "target-ComSampleServer-Debug-8fd934fb2c097cd4020e.json",
+					"name" : "ComSampleServer",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "ComSampleService::@a66caf5e02810630a21c",
+					"jsonFile" : "target-ComSampleService-Debug-10ea12c29d4bf4cccb21.json",
+					"name" : "ComSampleService",
+					"projectIndex" : 3
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/\u0412\u043b\u0430\u0434/Desktop/\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 - 3 \u043a\u0443\u0440\u0441 \u0418\u0421\u0438\u0422/\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u044b\u0435/Lab4/out/build/x64-Debug",
+		"source" : "C:/Users/\u0412\u043b\u0430\u0434/Desktop/\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 - 3 \u043a\u0443\u0440\u0441 \u0418\u0421\u0438\u0422/\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u044b\u0435/Lab4"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

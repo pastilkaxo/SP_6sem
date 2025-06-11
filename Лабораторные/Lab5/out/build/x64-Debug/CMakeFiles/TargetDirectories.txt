@@ -1,0 +1,4 @@
+C:/Users/Влад/Desktop/5labb/out/build/x64-Debug/CMakeFiles/DemoService.dir
+C:/Users/Влад/Desktop/5labb/out/build/x64-Debug/CMakeFiles/ServiceCtl.dir
+C:/Users/Влад/Desktop/5labb/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Влад/Desktop/5labb/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

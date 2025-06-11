@@ -1,0 +1,2 @@
+https://www.rsdn.org/article/com/introcom.xml#ER
+https://learn.microsoft.com/en-us/windows/win32/com/component-object-model--com--portal

@@ -1,0 +1,8 @@
+C:\Users\Влад\Desktop\Системное программирование - 3 курс ИСиТ\Лабораторные\Lab1\Lab1Cmake\out\build\CSharp-Project\out\Debug\lab1CS.exe
+C:\Users\Влад\Desktop\Системное программирование - 3 курс ИСиТ\Лабораторные\Lab1\Lab1Cmake\out\build\CSharp-Project\out\Debug\lab1CS.pdb
+C:\Users\Влад\Desktop\Системное программирование - 3 курс ИСиТ\Лабораторные\Lab1\Lab1Cmake\out\build\CSharp-Project\obj\x64\Debug\lab1CS.csproj.AssemblyReference.cache
+C:\Users\Влад\Desktop\Системное программирование - 3 курс ИСиТ\Лабораторные\Lab1\Lab1Cmake\out\build\CSharp-Project\obj\x64\Debug\lab1CS.csproj.CoreCompileInputs.cache
+C:\Users\Влад\Desktop\Системное программирование - 3 курс ИСиТ\Лабораторные\Lab1\Lab1Cmake\out\build\CSharp-Project\obj\x64\Debug\lab1CS.exe
+C:\Users\Влад\Desktop\Системное программирование - 3 курс ИСиТ\Лабораторные\Lab1\Lab1Cmake\out\build\CSharp-Project\obj\x64\Debug\lab1CS.pdb
+C:\Users\Влад\Desktop\Системное программирование - 3 курс ИСиТ\Лабораторные\Lab1\Lab1Cmake\out\build\CSharp-Project\exec\Debug\lab1CS.exe
+C:\Users\Влад\Desktop\Системное программирование - 3 курс ИСиТ\Лабораторные\Lab1\Lab1Cmake\out\build\CSharp-Project\exec\Debug\lab1CS.pdb

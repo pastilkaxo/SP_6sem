@@ -1,0 +1,10 @@
+^C:\USERS\ВЛАД\DESKTOP\СИСТЕМНОЕ ПРОГРАММИРОВАНИЕ - 3 КУРС ИСИТ\ЛАБОРАТОРНЫЕ\LAB1\LAB1CMAKE\C-PROJECT\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Влад/Desktop/Системное программирование - 3 курс ИСиТ/Лабораторные/Lab1/Lab1Cmake" "-BC:/Users/Влад/Desktop/Системное программирование - 3 курс ИСиТ/Лабораторные/Lab1/Lab1Cmake/out/build" --check-stamp-file "C:/Users/Влад/Desktop/Системное программирование - 3 курс ИСиТ/Лабораторные/Lab1/Lab1Cmake/out/build/C-Project/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

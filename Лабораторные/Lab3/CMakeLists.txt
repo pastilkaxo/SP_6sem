@@ -1,0 +1,22 @@
+cmake_minimum_required(VERSION 3.20)
+project(Lab-03)
+
+set(LIBRARY_OUTPUT_PATH "${CMAKE_BINARY_DIR}/out")
+set(EXECUTABLE_OUTPUT_PATH "${CMAKE_BINARY_DIR}/out")
+
+add_subdirectory(LVOLib)
+add_subdirectory(Lab03a)
+
+if(CMAKE_SYSTEM_NAME STREQUAL "Windows")
+    message("System:Windows!")
+    set(LIBRARY_OUTPUT_PATH "${CMAKE_BINARY_DIR}/out")
+    set(EXECUTABLE_OUTPUT_PATH "${CMAKE_BINARY_DIR}/out")
+    add_subdirectory(LVODLib)
+    add_subdirectory(LVODLibPP)
+    add_subdirectory(Lab-03b-Explicit)
+    add_subdirectory(Lab-03b-Implicit)
+elseif(CMAKE_SYSTEM_NAME STREQUAL "Linux")
+    message("System:Linux!")
+    add_subdirectory(LibLvod)
+    add_subdirectory(Lab-03c)
+endif()

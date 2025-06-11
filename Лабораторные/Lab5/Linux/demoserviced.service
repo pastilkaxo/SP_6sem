@@ -1,0 +1,13 @@
+[Unit]
+Description=Демон DemoService
+After=network.target
+
+[Service]
+Type=forking
+PIDFile=/run/demoserviced.pid
+ExecStart=/usr/sbin/demoserviced
+Restart=always
+KillSignal=SIGTERM
+
+[Install]
+WantedBy=multi-user.target

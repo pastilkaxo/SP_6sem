@@ -1,0 +1,5 @@
+C:/Users/Влад/Desktop/Системное программирование - 3 курс ИСиТ/Лабораторные/Lab03/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Влад/Desktop/Системное программирование - 3 курс ИСиТ/Лабораторные/Lab03/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Влад/Desktop/Системное программирование - 3 курс ИСиТ/Лабораторные/Lab03/out/build/x64-debug/Lab03/CMakeFiles/Lab03.dir
+C:/Users/Влад/Desktop/Системное программирование - 3 курс ИСиТ/Лабораторные/Lab03/out/build/x64-debug/Lab03/CMakeFiles/edit_cache.dir
+C:/Users/Влад/Desktop/Системное программирование - 3 курс ИСиТ/Лабораторные/Lab03/out/build/x64-debug/Lab03/CMakeFiles/rebuild_cache.dir

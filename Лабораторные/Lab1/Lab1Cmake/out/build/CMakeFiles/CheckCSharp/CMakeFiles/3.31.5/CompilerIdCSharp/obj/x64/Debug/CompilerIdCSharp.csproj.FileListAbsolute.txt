@@ -1,0 +1,6 @@
+C:\Users\Влад\Desktop\Системное программирование - 3 курс ИСиТ\Лабораторные\Lab1\Lab1Cmake\out\build\CMakeFiles\CheckCSharp\CMakeFiles\3.31.5\CompilerIdCSharp\obj\x64\Debug\CompilerIdCSharp.csproj.AssemblyReference.cache
+C:\Users\Влад\Desktop\Системное программирование - 3 курс ИСиТ\Лабораторные\Lab1\Lab1Cmake\out\build\CMakeFiles\CheckCSharp\CMakeFiles\3.31.5\CompilerIdCSharp\obj\x64\Debug\CompilerIdCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Влад\Desktop\Системное программирование - 3 курс ИСиТ\Лабораторные\Lab1\Lab1Cmake\out\build\CMakeFiles\CheckCSharp\CMakeFiles\3.31.5\CompilerIdCSharp\obj\x64\Debug\CompilerIdCSharp.exe
+C:\Users\Влад\Desktop\Системное программирование - 3 курс ИСиТ\Лабораторные\Lab1\Lab1Cmake\out\build\CMakeFiles\CheckCSharp\CMakeFiles\3.31.5\CompilerIdCSharp\obj\x64\Debug\CompilerIdCSharp.pdb
+C:\Users\Влад\Desktop\Системное программирование - 3 курс ИСиТ\Лабораторные\Lab1\Lab1Cmake\out\build\CMakeFiles\CheckCSharp\CMakeFiles\3.31.5\CompilerIdCSharp\CompilerIdCSharp.exe
+C:\Users\Влад\Desktop\Системное программирование - 3 курс ИСиТ\Лабораторные\Lab1\Lab1Cmake\out\build\CMakeFiles\CheckCSharp\CMakeFiles\3.31.5\CompilerIdCSharp\CompilerIdCSharp.pdb

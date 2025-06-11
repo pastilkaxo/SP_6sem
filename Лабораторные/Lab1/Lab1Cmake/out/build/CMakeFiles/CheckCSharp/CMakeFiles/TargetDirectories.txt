@@ -1,0 +1,2 @@
+C:/Users/Влад/Desktop/Системное программирование - 3 курс ИСиТ/Лабораторные/Lab1/Lab1Cmake/out/build/CMakeFiles/CheckCSharp/CMakeFiles/ALL_BUILD.dir
+C:/Users/Влад/Desktop/Системное программирование - 3 курс ИСиТ/Лабораторные/Lab1/Lab1Cmake/out/build/CMakeFiles/CheckCSharp/CMakeFiles/ZERO_CHECK.dir

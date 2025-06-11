@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Влад\Desktop\Системное программирование - 3 курс ИСиТ\Лабораторные\Lab1\Lab1Cmake\C-Project\src\Source.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Влад\Desktop\Системное программирование - 3 курс ИСиТ\Лабораторные\Lab1\Lab1Cmake\C-Project\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{AF435E76-E4AD-38DB-B190-5022741A296F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

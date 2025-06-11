@@ -1,0 +1,27 @@
+import "oaidl.idl";
+import "ocidl.idl";
+
+[
+    object,
+    uuid(C0C62619-3BC1-4095-9B9A-84503E37DAA5),
+    version(1.0),
+    helpstring("IComTest interface")
+]
+interface IComTest : IUnknown
+{
+    HRESULT WhoAmI([out] LPWSTR *pwszWhoAmI);
+}
+
+[
+    object,
+    uuid(A7F2B8F3-95D2-4D7B-A1CC-3A20D8769AC6),
+    version(1.0),
+    helpstring("ILVO interface")
+]
+interface ILVO : IUnknown {
+    HRESULT PowerOfN(
+        [in] double x,           // Число, которое возводится в степень
+        [out] double* x5 , // Результат вычисления x^n
+        [out, retval] double* x13  // Результат вычисления x^n
+    );
+}
